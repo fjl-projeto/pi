@@ -1,4 +1,4 @@
-# Projeto Integrador <br>
+# Projeto Integrador miRango <br>
 Projeto de conclusão do curso técnico em Informática dos alunos Flávia Lordes Pissarra, Jefferson Alves Napomuceno e Luíza Fonseca Alves com orientação do professor Moisés Savedra Omêna.</br>
 
 Mini-mundo:<br>
