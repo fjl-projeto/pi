@@ -1,14 +1,15 @@
-# Projeto Integrador miRango <br>
-Projeto de conclusão do curso técnico em Informática dos alunos Flávia Lordes Pissarra, Jefferson Alves Napomuceno e Luíza Fonseca Alves com orientação do professor Moisés Savedra Omêna.</br>
+# Projeto Integrador miRango<br>
+Projeto de conclusão do curso técnico em Informática dos alunos Flávia Lordes Pissarra, Jefferson Alves Napomuceno e Luíza Fonseca Alves com orientação do professor Moisés Savedra Omêna no Instituto Federal do Espírito Santo - Campus Serra.<br>
 
-Mini-mundo:<br>
-O projeto está sendo baseado na necessidade diária de poupar o tempo gasto aguardando em filas de restaurantes para ser atendido. A ideia é criar um site na web/aplicativo com objetivo de facilitar a vida dos clientes, através da Internet o usuário terá disponível cardápios de restaurantes/lanchonetes em que poderá fazer seu pedido antecipado e até o seu pagamento. O cliente ao tirar a refeição terá disponível também, uma avaliação do produto, onde no final de cada semana o produto melhor avaliado entra em promoção.
-O diferencial é que o cliente invés de ir ao restaurante ter que enfrentar filas para efetuar seu pedido, basta apenas fazer o pedido online e ir retirar no restaurante (ao efetuar a compra, o cliente recebe uma senha/qrcode, para que possa retirar seu pedido), dessa forma evita filas e agiliza o processo de atendimento.</br>
+### Mini-mundo:<br>
+  #### E se você pudesse fazer o pedido da sua comida favorita naquela sexta pesada antes mesmo de acabar a aula/o trabalho, pagar pela mesma e retirar assim que estiver liberado(a), sem filas ou mais estresse? Essa é a nossa proposta!
+  
+  A ideia do projeto vem da necessidade diária de poupar o tempo gasto aguardando em filas de restaurantes para ser atendido. Nosso propósito é criar um site na web (e, se tivermos tempo, um aplicativo móvel) que facilite a vida dos clientes: por meio deste, o usuário terá disponível cardápios de restaurantes/lanchonetes até N quilômetros de distância (que será regulável e dependente da disposição que o mesmo terá de ir buscar), podendo assim fazer o pedido e o pagamento online (via cartão ou PayPal) antecipado para retirar sua comida mais tarde.
 
-Descrição:<br>
-Cliente: o cliente terá disponível em um aplicativo no smartphone onde poderá fazer os pedidos sem ter que enfrentar filas, dessa forma, ao selecionar o restaurante, aparecerá o cardápio, onde o cliente selecionará seu pedido e até seu pagamento de forma online. Após feito o pedido, o cliente receberá uma senha para retirar seu pedido no restaurante e também poderá após a retirada, avaliar o serviço/alimento.</br>
-<br>
-Estabelecimento participante: cada restaurante terá que pagar uma taxa paga a utilização do aplicativo, sendo assim, eles serão responsáveis por montar seu cardápio online.</br>
-<br>
-Desenvolvedor: a empresa será responsável pela divulgação do aplicativo.</br>
-
+  A cada compra efetuada o cliente terá disponível uma senha única/QRCode (que expira em 1 hora após o horário marcado para a retirada) para que quando for ao estabelecimento possa retirar seu pedido, agilizando o processo de atendimento. E, depois que a fome passar, responderá obrigatoriamente a uma "enquete" onde fará a avaliação do(s) produto(s) que pediu. Quanto mais avaliações, melhor! Isso nos dará, no final de cada semana, o produto melhor avaliado e esse entra em promoção!
+  
+  O sistema baseia-se na nossa vontade de acabar com as filas (que são bem cansativas, né?), sendo assim, ao invés do cliente ter que ir ao local enfrentar a famosa fila quilométrica para efetuar seu pedido, basta apenas fazer o pedido online e ir retirar no balcão do restaurante, lanchonete, stand da tia do Dogão... Mas o diferencial está aqui: você pode escolher navegar por categorias (quer comer comida mexicana ou japonesa?) ou também por ingredientes (que tal comer algo com bacon? Nosso sistema te mostrará todas as entradas que levam bacon, como por exemplo, um "cheese bacon", "batata frita com cheddar e bacon" ou "filé de frango enrolado com bacon". E se você for vegetariano(a) ou vegano(a)? Também temos as opções mais saudáveis. O importante é saber o que buscar que o resto nós fazemos para você).
+  
+  Nós, desenvolvedores, seremos responsáveis pela criação e divulgação do site/aplicativo.
+  
+  Para cada estabelecimento participante uma taxa será cobrada para a utilização do serviço (seja ela mensal, semestral ou anual), porém o download do futuro aplicativo será grátis. Cabe também a cada um deles montar o próprio cardápio online.
