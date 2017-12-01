@@ -41,7 +41,7 @@
 
 ### Interface / Mockups:<br>
 
-  > pdf
+  > Flávia; pdf
 
 ### Tecnologias utilizadas:<br>
 
@@ -51,7 +51,7 @@
 ### Slide para apresentação final:<br>
 
   > Luíza;
-  > mín 6, máx 10;
+  > mín 6, máx 10
   
 OBSERVAÇÃO IMPORTANTE:
 Colocar todos os arquivos que fazem parte do projeto no GIT.
