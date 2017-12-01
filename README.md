@@ -1,9 +1,9 @@
 # Projeto Integrador "miRango"<br>
   Projeto de conclusão do curso técnico em Informática dos alunos Flávia Lordes Pissarra, Jefferson Alves Napomuceno e Luíza Alves Fonseca com orientação do professor Moisés Savedra Omêna no Instituto Federal do Espírito Santo - Campus Serra.<br>
   
-  Flávia: flaviapissarra@gmail.com<br>
-  Jefferson: erjeffersonnapomuceno@gmail.com<br>
-  Luíza: ffonsecaluiza@gmail.com<br>
+  Flávia: flaviapissarra@gmail.com | @flavialp<br>
+  Jefferson: erjeffersonnapomuceno@gmail.com | @napomuceno <br>
+  Luíza: ffonsecaluiza@gmail.com | @luizaalvesf <br>
 
 ### Introdução e motivação<br>
   #### E se você pudesse fazer o pedido da sua comida favorita naquela sexta pesada antes mesmo de acabar a aula/o trabalho, pagar pela mesma e retirar assim que estiver liberado(a), sem filas ou mais estresse? Essa é a nossa proposta!
