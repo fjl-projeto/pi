@@ -26,7 +26,7 @@
 ### Mini-mundo<br>
   
   O uso do aplicativo se dá da seguinte forma: os clientes primeiro escolhem entre navegar por categoria ou utilizar a busca e serem mais específicos no que estão com vontade de comer; segundo, pagam pelo alimento; terceiro, retiram o pedido diretamente no local solicitado utilizando um código único, lembrando sempre de confirmar tal ação; após feita a refeição, o quarto passo é avaliá-la; quinto, no final de cada semana os desenvolvedores são responsáveis pela divulgação do item mais bem avaliado.
-  
+
 ### Modelo Conceitual:<br>
 
   > modelo E-R
@@ -42,6 +42,11 @@
 ### Interface / Mockups:<br>
 
   > pdf
+
+### Tecnologias utilizadas:<br>
+
+  Backend: PostgreSQL, Python 3.4, Django.
+  Frontend: HTML5, CSS3, JavaScript.
 
 ### Slide para apresentação final:<br>
 
