@@ -1,7 +1,196 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  </head>
-  <body>
-  </body>
+	<head>
+	  
+	  <!-- Images by Pexels.com under CC0 License -->
+	  <!-- free for personal and commercial use -->
+	  
+	  <title>miRango home page</title>
+	  
+	  <meta charset="utf-8">
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	  
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	  
+	  <link href='https://fonts.googleapis.com/css?family=Caveat+Brush' rel='stylesheet'>
+	  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+	  
+	  <style>
+		.navbar-brand {
+			color:white;
+			font-family:Caveat Brush;
+			font-size:25px;
+		}
+		
+		.navbar-brand:hover {
+			color:black;
+			font-family:Caveat Brush;
+			font-size:25px;
+		}
+
+		.bg1 {
+			margin:0;
+			background-image:url("https://images.pexels.com/photos/367915/pexels-photo-367915.jpeg");
+			background-attachment:fixed;
+			background-size:cover;
+		}
+		
+		.titulo1 {
+			font-family:Caveat Brush;
+			font-size:80px;
+		}
+		
+		.titulo2 {
+			font-family:Roboto;
+			font-size:15px;
+		}
+		
+		a {
+			font-family:Roboto;
+			font-size:16px;
+			color:#74A698;
+		}
+		
+		a:hover {
+			font-family:Roboto;
+			font-size:16px;
+			color:#74A698;
+			font-weight:bold;
+			text-decoration:none;
+		}
+		
+		.navbar {
+			background-color:#E68804;
+			margin-bottom:0;
+			border-radius:0;
+		}
+		
+		footer {
+			background-color:#f2f2f2;
+			padding:33px;
+		}
+		
+		input[type=text] {
+			width:350px;
+			box-sizing:border-box;
+			border:2px solid #ccc;
+			border-radius:4px;
+			font-size:16px;
+			background-color:white;
+			background-position:10px 10px; 
+			background-repeat:no-repeat;
+			padding:12px 20px 12px 40px;
+			-webkit-transition:width 0.4s ease-in-out;
+			transition:width 0.4s ease-in-out;
+		}
+
+		input[type=text]:focus {
+			width:30%;
+		}
+		
+		input[type=password] {
+			width:350px;
+			box-sizing:border-box;
+			border:2px solid #ccc;
+			border-radius:4px;
+			font-size:16px;
+			background-color:white;
+			background-position:10px 10px; 
+			background-repeat:no-repeat;
+			padding:12px 20px 12px 40px;
+			-webkit-transition:width 0.4s ease-in-out;
+			transition:width 0.4s ease-in-out;
+		}
+
+		input[type=password]:focus {
+			width:30%;
+		}
+		
+		.botao {
+			background-color:#0A0706;
+			border:2px solid #0A0706;
+			color:white;
+			padding:12px 20px 12px 20px;
+			text-align:center;
+			text-decoration:none;
+			display:inline-block;
+			font-size:16px;
+			width:60px;
+			box-sizing:border-box;
+			border-radius:4px;
+		}
+		
+		.botao:hover {
+			background-color:#5C8C45;
+			border:2px solid #5C8C45;
+			color:white;		
+			padding:12px 20px 12px 20px;
+			text-align:center;
+			text-decoration:none;
+			display:inline-block;
+			font-size:16px;
+			width:60px;
+			box-sizing:border-box;
+			border-radius:4px;
+		}
+	  </style>
+	  
+	</head>
+	
+	<body>
+
+		<!-- menu -->
+		<nav class="navbar">
+			<div class="container-fluid">
+			
+				<div class="navbar-header">
+					<a class="navbar-brand" href="index.html">miRango</a>
+				</div>
+				
+				<div class="collapse navbar-collapse" id="myNavbar">
+					&nbsp;
+					
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="register.html"><span class="glyphicon glyphicon-user"></span></a></li>
+						<li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span></a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</nav>
+
+		<br><br>
+		
+		<!-- titulo -->
+		<h3 class="titulo1" align="center">Login</h3>
+		
+		<br><br><br><br><br>
+		
+		<!-- form -->
+		<div class="container-fluid bg-3 text-center">
+			<div class="row">
+				
+				<!-- form action="/action_page.php" -->
+				<form class="titulo2">
+					<br>
+					e-Mail &nbsp; <input type="text" name="eMail" value="doejohn@example.com">
+					<br><br><br><br><br>
+					Senha &nbsp; <input type="password" name="senha" value="********">
+					<br>
+				</form>
+			</div>
+		</div>
+
+		<br><br><br><br><br><br><br><br>
+
+		<!-- confirmacao -->
+		<footer class="container-fluid text-center">
+			<input type="submit" class="botao" value="go">
+			<!-- type button? -->
+		</footer>
+
+	</body>
 </html>
