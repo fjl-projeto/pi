@@ -45,8 +45,8 @@
 
 ### Tecnologias utilizadas:<br>
 
-  Backend: PostgreSQL, Python 3.4, Django.<br>
-  Frontend: HTML5, CSS3, JavaScript.
+  PostgreSQL, Python 3.4, Django.<br>
+  HTML5, CSS3, JavaScript, Bootstrap CDN 3.3.7, JQuery 3.2.1.
 
 ### Slide para apresentação final:<br>
 
