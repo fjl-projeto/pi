@@ -41,8 +41,18 @@
 
 ### Interface / Mockups:<br>
 
-  > Flávia; pdf
-
+  Index:
+  https://github.com/fjl-projeto/pi/blob/master/print_index.png
+  
+  Login:
+  https://github.com/fjl-projeto/pi/blob/master/print_login.png
+  
+  Register:
+  https://github.com/fjl-projeto/pi/blob/master/print_register.png
+  
+  Search:
+  https://github.com/fjl-projeto/pi/blob/master/print_search.png
+  
 ### Tecnologias utilizadas:<br>
 
   PostgreSQL, Python 3.4, Django.<br>
