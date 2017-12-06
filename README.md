@@ -34,6 +34,7 @@
   
 ### Modelo Lógico:<br>
 
+  https://github.com/fjl-projeto/pi/blob/master/WhatsApp%20Image%202017-12-06%20at%2011.07.40.jpeg
   > chaves primárias e estrangeiras, atributos etc; baseado no conceitual
   
 ### Modelo Físico:<br>
