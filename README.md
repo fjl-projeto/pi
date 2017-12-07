@@ -60,7 +60,7 @@
 
 ### Slide para apresentação final<br>
 
-  https://docs.google.com/presentation/d/e/2PACX-1vSyG_lqbgUILa5yc12xvY8BcCxH9f3rZgS-pzdD0yZT_2FSxDcONJE5emsiQ-vNFh8XekxINLI-CJRb/pub?start=false&loop=false&delayms=5000&slide=id.gcb9a0b074_2_0
+  https://docs.google.com/presentation/d/10dVltoc2-PDvY-BewHDBYE4DEPm3v45L3ZCwbTVUNRQ/edit?usp=sharing
   
 OBSERVAÇÃO IMPORTANTE:
 Colocar todos os arquivos que fazem parte do projeto no GIT.
