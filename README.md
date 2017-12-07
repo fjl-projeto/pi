@@ -27,21 +27,19 @@
   
   O uso do aplicativo se dá da seguinte forma: os clientes primeiro escolhem entre navegar por categoria ou utilizar a busca e serem mais específicos no que estão com vontade de comer; segundo, pagam pelo alimento; terceiro, retiram o pedido diretamente no local solicitado utilizando um código único, lembrando sempre de confirmar tal ação; após feita a refeição, o quarto passo é avaliá-la; quinto, no final de cada semana os desenvolvedores são responsáveis pela divulgação do item mais bem avaliado.
 
-### Modelo Conceitual:<br>
+### Modelo Conceitual<br>
 
   https://github.com/fjl-projeto/pi/blob/master/WhatsApp%20Image%202017-12-06%20at%2011.07.41.jpeg
-  > modelo E-R
   
-### Modelo Lógico:<br>
+### Modelo Lógico<br>
 
   https://github.com/fjl-projeto/pi/blob/master/WhatsApp%20Image%202017-12-06%20at%2011.07.40.jpeg
-  > chaves primárias e estrangeiras, atributos etc; baseado no conceitual
   
-### Modelo Físico:<br>
+### Modelo Físico<br>
 
   > documento postgreSQL
 
-### Interface / Mockups:<br>
+### Interface / Mockups<br>
 
   Index:
   https://github.com/fjl-projeto/pi/blob/master/print_index.png
@@ -55,15 +53,14 @@
   Search:
   https://github.com/fjl-projeto/pi/blob/master/print_search.png
   
-### Tecnologias utilizadas:<br>
+### Tecnologias utilizadas<br>
 
   PostgreSQL, Python 3.4, Django.<br>
   HTML5, CSS3, JavaScript, Bootstrap CDN 3.3.7, JQuery 3.2.1.
 
-### Slide para apresentação final:<br>
+### Slide para apresentação final<br>
 
-  > Luíza;
-  > mín 6, máx 10
+  https://docs.google.com/presentation/d/e/2PACX-1vSyG_lqbgUILa5yc12xvY8BcCxH9f3rZgS-pzdD0yZT_2FSxDcONJE5emsiQ-vNFh8XekxINLI-CJRb/pub?start=false&loop=false&delayms=5000&slide=id.gcb9a0b074_2_0
   
 OBSERVAÇÃO IMPORTANTE:
 Colocar todos os arquivos que fazem parte do projeto no GIT.
